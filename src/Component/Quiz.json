@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "questions":"What is the capital of France?",
+        "options":["Berline","Madrid","Paris","Rome"],
+        "correctOptions":"Paris"
+    },
+    {
+        "id":2,
+        "questions":"Which planet is known as the Red Planet?",
+        "options":["Venus","Mars","Jupiter","Saturn"],
+        "correctOptions":"Mars"
+    },
+    {
+        "id":3,
+        "questions":"What of the following is used in React.js to increase performance",
+        "options":["Original DOM","Virtual DOM","Both","None"],
+        "correctOptions":"Virtual DOM"
+    }
+]
