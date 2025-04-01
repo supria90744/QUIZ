@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import questionData from "./Quiz.json";
 import "./Quiz.css";
-function App() {
+function Quiz() {
   const [currentQues, setCurrentQues] = useState(0);
   const [score, setScore] = useState(0);
   const [showScore, setShowScore] = useState(false);
@@ -66,4 +66,4 @@ function App() {
     </>
   );
 }
-export default App;
+export default Quiz;
